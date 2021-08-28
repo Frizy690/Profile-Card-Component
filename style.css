@@ -14,6 +14,7 @@ body {
   justify-content: center;
   align-items: center;
   font-family: "Kumbh Sans", sans-serif;
+  overflow: hidden;
 }
 .background-pattern > .top-img {
   position: absolute;
